@@ -1,0 +1,6 @@
+D:\C# trainings\JenkinsJob\JenkinsJob\JenkinsJob\bin\Debug\JenkinsJob.exe.config
+D:\C# trainings\JenkinsJob\JenkinsJob\JenkinsJob\bin\Debug\JenkinsJob.exe
+D:\C# trainings\JenkinsJob\JenkinsJob\JenkinsJob\bin\Debug\JenkinsJob.pdb
+D:\C# trainings\JenkinsJob\JenkinsJob\JenkinsJob\obj\Debug\JenkinsJob.csprojResolveAssemblyReference.cache
+D:\C# trainings\JenkinsJob\JenkinsJob\JenkinsJob\obj\Debug\JenkinsJob.exe
+D:\C# trainings\JenkinsJob\JenkinsJob\JenkinsJob\obj\Debug\JenkinsJob.pdb
