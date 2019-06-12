@@ -11,6 +11,7 @@ namespace JenkinsJob
         static void Main(string[] args)
         {
             Console.WriteLine("My First Jenkins Build");
+            Console.ReadKey();
         }
     }
 }
